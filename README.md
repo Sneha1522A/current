@@ -1,6 +1,12 @@
 HTML (index.html)
 <title>Current Date and Time</title>
 <script src="script.js"></script>
+
+
+
+
+
+
 CSS (style.css)
 body { font-family: Arial, sans-serif; display: flex; justify-content: center; align-items: center; height: 100vh; margin: 0; background-color: #f4f4f4; text-align: center; }
 
@@ -9,6 +15,11 @@ body { font-family: Arial, sans-serif; display: flex; justify-content: center; a
 #date { font-size: 24px; margin-bottom: 10px; }
 
 #time { font-size: 48px; color: #333; }
+
+
+
+
+
 
 JavaScript (script.js)
 function updateDateTime() { const now = new Date();
